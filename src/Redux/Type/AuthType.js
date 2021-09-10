@@ -1,0 +1,13 @@
+
+
+
+export const  LOGIN_USER = "LOGIN_USER"
+export const  LOADING_USER = "LOADING_USER"
+export const  SEND_MAIL = "SEND_MAIL"
+export const  CHANGE_PASSWORD = "CHANGE_PASSWORD"
+export const SIGNUP_USER = "SIGNUP_USER"
+export const SIGNUP_OTP_VERIFY = "SIGNUP_OTP_VERIFY"
+export const SIGNUP_OTP_MODAL = "SIGNUP_OTP_MODAL"
+export const LOGOUT_USER = "LOGOUT_USER"
+export const REFRESH_TOKEN = "REFRESH_TOKEN"
+export const LOAD_ROLE_LIST = "LOAD_ROLE_LIST"
